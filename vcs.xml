@@ -6,6 +6,10 @@
           <option name="url" value="http://git.wedemo.cn:82" />
           <option name="userName" value="huangj@yuzhi.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.wedemo.cn" />
+          <option name="userName" value="huangj" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
