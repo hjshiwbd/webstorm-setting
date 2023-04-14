@@ -10,6 +10,10 @@
           <option name="url" value="http://git.wedemo.cn" />
           <option name="userName" value="huangj" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.qzdcloud.com" />
+          <option name="userName" value="huangjin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
