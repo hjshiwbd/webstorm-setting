@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.alpha" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.development" type="PLAIN_TEXT" />
     </extensionMap>
