@@ -7,6 +7,8 @@
       <mapping pattern=".env.h5.alpha" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.h5.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.beta" type="Shell Script" />
+      <mapping pattern=".env.h5.beta" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
