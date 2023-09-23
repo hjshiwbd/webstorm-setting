@@ -1,22 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="http://git.wedemo.cn:82" />
-          <option name="userName" value="huangj@yuzhi.cn" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.wedemo.cn" />
-          <option name="userName" value="huangj" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.qzdcloud.com" />
-          <option name="userName" value="huangjin" />
-        </UrlAndUserName>
-      </list>
-    </option>
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
